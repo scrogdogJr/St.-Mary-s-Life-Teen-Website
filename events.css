@@ -173,7 +173,8 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-top: 100px; */
+    height: 45px;
+    margin-top: 25px;
 }
 
 .button-case a {
@@ -224,7 +225,6 @@ header h1 {
     margin-top: 75px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -232,12 +232,12 @@ header h1 {
     color: white;
     font-family: 'Merriweather', sans-serif;
     font-size: 30px;
-    margin: 0px 0px 25px 0px;
+    margin: 0px 0px 40px 0px;
 }
 
 .sjd-lifeteen-left img {
     width: 92%;
-    aspect-ratio: 5156/3219;
+    aspect-ratio: 1662/828;
     border-radius: 10px;
 }
 
@@ -282,7 +282,6 @@ hr {
     margin-top: 75px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -290,12 +289,12 @@ hr {
     color: white;
     font-family: 'Merriweather', sans-serif;
     font-size: 30px;
-    margin: 0px 0px 25px 0px;
+    margin: 0px 0px 40px 0px;
 }
 
 .stm-lifeteen-left img {
     width: 92%;
-    aspect-ratio: 5156/3219;
+    aspect-ratio: 1663/828;
     border-radius: 10px;
 }
 
